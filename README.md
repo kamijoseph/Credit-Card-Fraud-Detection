@@ -135,4 +135,4 @@ with open("models/model.sav", "rb") as f:
 
 * Tune hyperparameters with automated search (GridSearchCV or Optuna).
 * Explore ensemble models combining XGBoost and Logistic Regression.
-* Deploy as a real-time fraud detection API
+* Deploy as a real-time fraud detection API.
